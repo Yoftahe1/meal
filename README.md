@@ -1,4 +1,4 @@
-# app
+# meal
 
 A new Flutter project.
 
